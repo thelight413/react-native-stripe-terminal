@@ -43,8 +43,8 @@
   "main": "index.js",
   "name": "react-native-stripe-terminal",
   "peerDependencies": {
-    "react": "^18.0.0",
-    "react-native": "^0.64.0"
+    "react": "*",
+    "react-native": "*"
   },
   "repository": {
     "type": "git",
